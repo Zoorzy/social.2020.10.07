@@ -1,0 +1,11 @@
+main {
+    background-color: #ddd;
+    width: 50%;
+    margin: 15px auto;
+    padding: 40px 20px;
+}
+
+main input[type="text"],
+main input[type="password"] {
+    margin: 10px 0px;
+}
